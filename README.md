@@ -11,7 +11,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,angular,java,js,python,react,mysql&theme=dark"/>
 </div>
 
 
