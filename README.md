@@ -11,7 +11,7 @@
 
 <img src="https://skillicons.dev/icons?i=github,windows,vscode,,pycharm&theme=dark" />
 
-<div style="display: inline_block"><br>
+## Language
 <img src="https://skillicons.dev/icons?i=html,css,angular,java,js,python,react,mysql&theme=dark"/>
 </div>
 
