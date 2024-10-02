@@ -4,11 +4,8 @@
 
 • I'm learning Java, React and Angular.
 
-<div>
-<a href="https://github.com/Pereira017">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pereira017&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira017&layout=compact&langs_count=16&theme=dark"/>
-</div>
+![Pereira017_GitHub_stats](https://github-readme-stats.vercel.app/api?username=Pereira017&show_icons=true&theme=dark)
+[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira017)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
 <img src="https://skillicons.dev/icons?i=html,css,angular,java,js,python,react,mysql&theme=dark"/>
