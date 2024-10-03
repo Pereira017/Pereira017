@@ -9,7 +9,7 @@
 
 ## IDE's/OS:
 
-<img src="https://skillicons.dev/icons?i=github,windows,vscode,pycharm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=idea,github,androidstudio,windows,vscode,pycharm&theme=dark" />
 
 ## Language
 <img src="https://skillicons.dev/icons?i=html,css,angular,java,js,python,react,mysql&theme=dark"/>
